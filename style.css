@@ -1,0 +1,18 @@
+h1{
+color:blue;
+background-color:aqua;
+text-align:center;
+text-decoration: dotted black underline;
+}
+p{
+    color:cadetblue;
+    font-size: 15px;
+    font-family: fantasy;
+    
+}
+
+button{
+    color:blueviolet;
+    background-color:aqua;
+}
+    
